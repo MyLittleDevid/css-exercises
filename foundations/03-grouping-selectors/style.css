@@ -1,0 +1,11 @@
+.bouth{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman",sans-serif;
+}
+.bouth.one {
+     background-color: black;
+     color: white;
+}
+.bouth.two{
+    background-color: yellow;
+}
