@@ -24,3 +24,21 @@ img {
   justify-content: center;
   background: #eee;
 }
+/* Aqui vamos */
+
+body {
+  text-align: center;
+}
+.title {
+  margin-bottom: 32px;
+}
+.items {
+  display: flex;
+  justify-content: center;
+  gap: 56px;
+}
+
+.card{
+  max-width: 200px;
+}
+
